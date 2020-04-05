@@ -1,0 +1,21 @@
+{
+  "name": "inputcheck-betr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/inputcheckerTest.js"
+  },
+  "directories": {
+    "doc": ".",
+    "test": "test",
+    "example": "example"
+  },
+  "keywords": [
+    "input",
+    "check"
+  ],
+  "author": "xubaoxiang",
+  "license": "ISC",
+  "dependencies": {}
+}
